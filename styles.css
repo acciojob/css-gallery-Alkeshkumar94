@@ -1,5 +1,10 @@
 /*  your css code here. If applicable */
-#a{
+.a{
 	display:flex;
 	flex-wrap:wrap;
+}
+.a img{
+	width:250px;
+	height:200px;
+
 }
